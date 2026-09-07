@@ -1,0 +1,8 @@
+{
+  "name": "PDF Master AI",
+  "description": "A powerful, multilingual PDF management tool with AI capabilities to edit, merge, split, and analyze documents directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
